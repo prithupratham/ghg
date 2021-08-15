@@ -1,0 +1,25 @@
+body {
+    background-image: url('gpb.jpg');
+    background-size: cover;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+#output {
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+span {
+    font-size: 18px;
+    color: white;
+}
+
